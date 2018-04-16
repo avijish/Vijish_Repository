@@ -9,5 +9,8 @@ Changes on Remote Repository for Git Fetch again 1
 changes on Remote Repository fot Git Pull
 Learning commit amend
 hello 
+<<<<<<< HEAD
 amend file
 amend file1
+=======
+>>>>>>> 65a1c236f682b139cbe11abed1595b2d4ce80a99
