@@ -1,3 +1,6 @@
 git rebase learning begins
 Back again
 Learn rebase on master
+changes and commits made on branch feature1
+changes and commits made on branch feature2 and return to master for rebase
+
